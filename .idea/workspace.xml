@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d29c0c77-7410-40c1-8717-882a114b0e7a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grid-system/grid-system-advanced-nesting.html" afterPath="$PROJECT_DIR$/grid-system/grid-system-advanced-nesting.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,22 +17,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="grid-system-basics.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/grid-system/grid-system-basics.html">
+      <file leaf-file-name="grid-system-advanced-offset.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/grid-system/grid-system-advanced-offset.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="451">
-              <caret line="139" column="10" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="139" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="grid-system-advanced-nesting.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grid-system/grid-system-advanced-nesting.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="113">
-              <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-              <folding />
+            <state relative-caret-position="413">
+              <caret line="79" column="7" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
+              <folding>
+                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -65,6 +59,7 @@
         <option value="$PROJECT_DIR$/grid-system/css/styles.css" />
         <option value="$PROJECT_DIR$/grid-system/grid-system-basics.html" />
         <option value="$PROJECT_DIR$/grid-system/grid-system-advanced-nesting.html" />
+        <option value="$PROJECT_DIR$/grid-system/grid-system-advanced-offset.html" />
       </list>
     </option>
   </component>
@@ -128,6 +123,11 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/grid-system" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -150,12 +150,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509355317911</updated>
-      <workItem from="1509355320508" duration="5108000" />
+      <workItem from="1509355320508" duration="6193000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5108000" />
+    <option name="totallyTimeSpent" value="6193000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="323" y="47" width="1179" height="771" extended-state="0" />
@@ -198,19 +198,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/grid-system/grid-system-advanced-nesting.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="353">
+          <caret line="40" column="10" lean-forward="false" selection-start-line="40" selection-start-column="10" selection-end-line="40" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/grid-system/grid-system-basics.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="451">
+        <state relative-caret-position="987">
           <caret line="139" column="10" lean-forward="true" selection-start-line="113" selection-start-column="0" selection-end-line="139" selection-end-column="10" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/grid-system/grid-system-advanced-nesting.html">
+    <entry file="file://$PROJECT_DIR$/grid-system/grid-system-advanced-offset.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="113">
-          <caret line="24" column="32" lean-forward="false" selection-start-line="24" selection-start-column="32" selection-end-line="24" selection-end-column="32" />
-          <folding />
+        <state relative-caret-position="413">
+          <caret line="79" column="7" lean-forward="true" selection-start-line="79" selection-start-column="7" selection-end-line="79" selection-end-column="7" />
+          <folding>
+            <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
