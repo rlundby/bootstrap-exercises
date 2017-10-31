@@ -3,8 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d29c0c77-7410-40c1-8717-882a114b0e7a" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grid-system/css/styles.css" afterPath="$PROJECT_DIR$/grid-system/css/styles.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/grid-system/grid-system-advanced-offset.html" afterPath="$PROJECT_DIR$/grid-system/grid-system-advanced-offset.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -18,15 +16,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="grid-system-advanced-offset.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/grid-system/grid-system-advanced-offset.html">
+      <file leaf-file-name="breadcrumbs.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compontents/breadcrumbs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="81" column="0" lean-forward="true" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
-              <folding>
-                <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-              </folding>
+            <state relative-caret-position="203">
+              <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="buttons.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/compontents/buttons.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="258">
+              <caret line="79" column="46" lean-forward="true" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="46" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="navbar.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/compontents/navbar.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="267">
+              <caret line="49" column="31" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -53,6 +68,12 @@
         <option value="$PROJECT_DIR$/grid-system/grid-system-advanced-reset.html" />
         <option value="$PROJECT_DIR$/grid-system/css/restStyles.css" />
         <option value="$PROJECT_DIR$/grid-system/grid-system-advanced-offset.html" />
+        <option value="$PROJECT_DIR$/compontents/navs.html" />
+        <option value="$PROJECT_DIR$/compontents/glyphicons.html" />
+        <option value="$PROJECT_DIR$/compontents/navbar.html" />
+        <option value="$PROJECT_DIR$/compontents/css/styles.css" />
+        <option value="$PROJECT_DIR$/compontents/breadcrumbs.html" />
+        <option value="$PROJECT_DIR$/compontents/buttons.html" />
       </list>
     </option>
   </component>
@@ -62,11 +83,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="431" />
-    <option name="y" value="50" />
-    <option name="width" value="995" />
-    <option name="height" value="771" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="7" />
+    <option name="y" value="35" />
+    <option name="width" value="1318" />
+    <option name="height" value="801" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -93,13 +114,13 @@
             <path>
               <item name="bootstrap-exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootstrap-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="grid-system" type="462c0819:PsiDirectoryNode" />
+              <item name="compontents" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bootstrap-exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="bootstrap-exercises" type="462c0819:PsiDirectoryNode" />
-              <item name="grid-system" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="compontents" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -118,6 +139,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/compontents" />
       <recent name="$PROJECT_DIR$/grid-system" />
     </key>
   </component>
@@ -143,25 +165,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1509355317911</updated>
-      <workItem from="1509355320508" duration="8190000" />
+      <workItem from="1509355320508" duration="13047000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8190000" />
+    <option name="totallyTimeSpent" value="13047000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="431" y="50" width="995" height="771" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="811" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34170854" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2361111" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20886981" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19756427" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -241,6 +263,54 @@
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compontents/navs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="65" column="40" lean-forward="false" selection-start-line="65" selection-start-column="40" selection-end-line="65" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compontents/glyphicons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="46" column="25" lean-forward="false" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compontents/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="23" lean-forward="false" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compontents/navbar.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="267">
+          <caret line="49" column="31" lean-forward="false" selection-start-line="49" selection-start-column="12" selection-end-line="49" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compontents/breadcrumbs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="22" column="35" lean-forward="false" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/compontents/buttons.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="79" column="46" lean-forward="true" selection-start-line="79" selection-start-column="46" selection-end-line="79" selection-end-column="46" />
+          <folding />
         </state>
       </provider>
     </entry>
