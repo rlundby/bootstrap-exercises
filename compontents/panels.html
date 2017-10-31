@@ -9,7 +9,7 @@
 
     <!-- Bootstrap -->
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/styles.css" rel="stylesheet">
+    <link href="css/style.css" rel="stylesheet">
 
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -20,81 +20,39 @@
     <![endif]-->
 </head>
 <body>
-<h1 class="text-center">Buttons</h1>
+<h1 class="text-center">Cards</h1>
 <div class="container">
     <div class="row">
-
-    <a href="#" class="btn btn-primary">Primary</a>
-
-    <a href="#" class="btn btn-danger">Danger</a>
-
-    <button class="btn btn-info">Info</button>
-
-    <input type="button" class="btn-danger btn-lg" value="Danger and Large">
-
-    <a href="#" class="btn btn-default btn-sm">Default and Small</a>
-
-    <a href="#" class="btn btn-success btn-sm">Success and Small</a>
-    </div>
-    <div class="row">
-    <a href="#" class="btn btn-warning btn-lg">Warning and Large</a>
-    <a href="#" class="btn btn-default btn-lg">Large</a>
-    <a href="#" class="btn btn-danger btn-xs">Danger and extra Small</a>
-    <a href="#" class="btn btn-default ">Btn</a>
-    <button class="btn btn-info btn-sm">Info and Small</button>
-    <a href="#" class="btn btn-default btn-xs">Extra Small</a>
-    </div>
-</div>
-<h1 class="text-center">Button Group</h1>
-<div class="container">
-    <div class="btn-group">
-        <button class="btn btn-danger">Danger</button>
-        <button class="btn btn-default">Default</button>
-        <button class="btn btn-success">Success</button>
-        <button class="btn btn-warning">Warning</button>
-        <button class="btn btn-primary">Primary</button>
-    </div>
-</div>
-<h1 class="text-center">Justified Button Group</h1>
-<div class="container">
-    <div class="btn-group btn-group-justified">
-        <div class="btn-group">
-        <button class="btn btn-danger">Danger</button>
-        </div>
-            <div class="btn-group">
-        <button class="btn btn-default">Default</button>
-            </div>
-                <div class="btn-group">
-        <button class="btn btn-success">Success</button>
+        <div class="col-xs-3">
+            <div class="panel panel-success">
+                <div class="panel-heading">
+                    <div class="panel-title">My title</div>
                 </div>
-                    <div class="btn-group">
-        <button class="btn btn-warning">Warning</button>
-                    </div>
-                        <div class="btn-group">
-        <button class="btn btn-primary">Primary</button>
-                        </div>
-    </div>
-</div>
-<h1 class="text-center">Vertical Button Group</h1>
-<div class="container">
-    <div class="btn-group btn-group-vertical">
-        <div class="btn-group">
-            <button class="btn btn-danger">Danger</button>
+             <div class="panel-body">Some content in my panel body</div>
+                <div class="panel-footer">My footer</div>
+            </div>
         </div>
-        <div class="btn-group">
-            <button class="btn btn-default">Default</button>
+        <div class="col-xs-3">
+            <div class="panel panel-danger">
+                <div class="panel-heading">
+                    <div class="panel-title">My title</div>
+                </div>
+                <div class="panel-body">Some content in my panel body</div>
+                <div class="panel-footer">My footer</div>
+            </div>
         </div>
-        <div class="btn-group">
-            <button class="btn btn-success">Success</button>
-        </div>
-        <div class="btn-group">
-            <button class="btn btn-warning">Warning</button>
-        </div>
-        <div class="btn-group">
-            <button class="btn btn-primary">Primary</button>
+        <div class="col-xs-3">
+            <div class="panel panel-info">
+                <div class="panel-heading">
+                    <div class="panel-title">My title</div>
+                </div>
+                <div class="panel-body">Some content in my panel body</div>
+                <div class="panel-footer">My footer</div>
+            </div>
         </div>
     </div>
 </div>
+
 
 <script src="js/jquery-3.2.1.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
