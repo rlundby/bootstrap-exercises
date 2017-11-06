@@ -19,31 +19,83 @@
     <![endif]-->
 </head>
 <body>
-<h1 class="text-center">Responsive Images</h1>
+
+<h1 class="text-center text-success">Contextual text colors</h1>
 <div class="container">
-   <div class="col-xs-6">
-       <img class="img-responsive" src="https://fthmb.tqn.com/aZAiyt4b5ixyuZRdXSE-Zahp0gY=/3865x2576/filters:fill(auto,1)/paint-brushes-139613265-5817711f5f9b581c0b53b9a4.jpg" alt="brushes">
-   </div>
-    <div class="col-xs-6">
-        <img class="img-responsive" src="https://fthmb.tqn.com/aZAiyt4b5ixyuZRdXSE-Zahp0gY=/3865x2576/filters:fill(auto,1)/paint-brushes-139613265-5817711f5f9b581c0b53b9a4.jpg" alt="brushes">
+    <p class="text-danger">This text conveys a danger</p>
+    <p class="text-warning">This text conveys a warning</p>
+    <h1 class="text-info">This heading contains info</h1>
+    <h1 class="text-muted">This heading is muted </h1>
+    <a href="#" class="text-success">This anchor is successful!</a>
+    <a href="#" class="text-primary">This is the default anchor!</a>
+</div>
+<h1 class="text-center text-success">Typography</h1>
+<div class="container">
+    <p class="lead">This is a lead paragraph</p><p>And this is a normal paragraph.</p>
+    <p class="text-center">This paragraph is centered.</p>
+    <h3 class="text-center">This heading is centered</h3>
+    <div class="text-center"><a href="#">This anchor is centered</a></div>
+    <p class="text-uppercase">This paragraph is uppercase</p>
+    <h3 class="text-uppercase">This heading is uppercase</h3>
+    <div class="text-uppercase"><a href="#">This anchor is in uppercase</a></div>
+    <p class="text-lowercase">thiS Is A UPpERCasE AnD loweRcaSe seNtence</p>
+</div>
+<h1 class="text-center text-success">Contextual Backgrounds</h1>
+<div class="container">
+    <p class="bg-danger">This has a backgrounds</p>
+    <h3 class="bg-info">This has a backgrounds</h3>
+    <span class="bg-success">This has a background</span>
+    <div class="bg-warning">This has a background</div>
+    <a href="#" class="bg-primary">This has a background</a>
+</div>
+<h1 class="text-center text-success">Placement</h1>
+<div class="container bg-danger pull-right">
+    <a href="#" class="bg-info pull-right">This link has some text</a>
+</div>
+<div class="container center-block bg-success" style="width: 200px;">
+    This div has some content
+</div>
+<h1 class="text-center text-success">Clearfix</h1>
+<div class="container">
+    <div class="row">
+        <div class="col-xs-6 bg-success" style="height: 100px;"></div>
+        <div class="clearfix"></div>
+        <div class="col-xs-6 bg-danger" style="height: 100px;"></div>
     </div>
 </div>
-<h1 class="text-center">Different Image Types</h1>
+
+<h1 class="text-center text-success">Visibility</h1>
 <div class="container">
-    <div class="col-sm-4">
-        <img class="img-responsive img-rounded" src="https://fthmb.tqn.com/aZAiyt4b5ixyuZRdXSE-Zahp0gY=/3865x2576/filters:fill(auto,1)/paint-brushes-139613265-5817711f5f9b581c0b53b9a4.jpg" alt="brushes">
+    <div class="row">
+    <div class="col-xs-3 bg-primary invisible" style="padding: 11%;"></div>
+    <div class="col-xs-3 bg-primary" style="padding: 11%;"></div>
+    <div class="col-xs-3 bg-primary invisible" style="padding: 11%;"></div>
+    <div class="col-xs-3 bg-primary" style="padding: 11%;"></div>
     </div>
-    <div class="col-sm-4">
-        <img class="img-responsive img-thumbnail" src="https://fthmb.tqn.com/aZAiyt4b5ixyuZRdXSE-Zahp0gY=/3865x2576/filters:fill(auto,1)/paint-brushes-139613265-5817711f5f9b581c0b53b9a4.jpg" alt="brushes">
+    <div class="row">
+        <div class="col-xs-3 bg-primary" style="padding: 11%;"></div>
+        <div class="col-xs-3 bg-primary invisible" style="padding: 11%;"></div>
+        <div class="col-xs-3 bg-primary" style="padding: 11%;"></div>
+        <div class="col-xs-3 bg-primary invisible" style="padding: 11%;"></div>
     </div>
-    <div class="col-sm-4">
-        <img class="img-responsive img-circle" src="https://fthmb.tqn.com/aZAiyt4b5ixyuZRdXSE-Zahp0gY=/3865x2576/filters:fill(auto,1)/paint-brushes-139613265-5817711f5f9b581c0b53b9a4.jpg" alt="brushes">
+    <div class="row">
+        <div class="col-xs-3 bg-primary invisible" style="padding: 11%;"></div>
+        <div class="col-xs-3 bg-primary" style="padding: 11%;"></div>
+        <div class="col-xs-3 bg-primary invisible" style="padding: 11%;"></div>
+        <div class="col-xs-3 bg-primary" style="padding: 11%;"></div>
     </div>
 </div>
-<h1 class="text-center">Centered Image</h1>
 <div class="container">
-    <img src="https://images-na.ssl-images-amazon.com/images/I/519xFd-ir5L._SL500_AC_SS350_.jpg" alt="" class="img-responsive center-block">
+    <div class="row">
+        <div class="col-xs-3 bg-info hide">---</div>
+        <div class="col-xs-6 bg-success">---</div>
+        <div class="col-xs-7 bg-primary hide">---</div>
+        <div class="col-xs-5 bg-danger hide">---</div>
+        <div class="col-xs-4 bg-warning">---</div>
+        <div class="col-xs-2 bg-danger">---</div>
+    </div>
 </div>
+
 
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
 <script src="js/bootstrap.min.js"></script>
