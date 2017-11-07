@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d29c0c77-7410-40c1-8717-882a114b0e7a" name="Default" comment="" />
+    <list default="true" id="d29c0c77-7410-40c1-8717-882a114b0e7a" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/behavioral-compontents/media-collapse.html" afterPath="$PROJECT_DIR$/behavioral-compontents/media-collapse.html" />
+    </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -27,8 +29,18 @@
       <file leaf-file-name="media-collapse.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/behavioral-compontents/media-collapse.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="33" column="98" lean-forward="false" selection-start-line="33" selection-start-column="98" selection-end-line="33" selection-end-column="98" />
+            <state relative-caret-position="399">
+              <caret line="287" column="34" lean-forward="false" selection-start-line="287" selection-start-column="34" selection-end-line="287" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="collapse.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/behavioral-compontents/collapse.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="65" column="8" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="114" />
               <folding />
             </state>
           </provider>
@@ -162,12 +174,12 @@
       <updated>1509355317911</updated>
       <workItem from="1509355320508" duration="19617000" />
       <workItem from="1509956016768" duration="217000" />
-      <workItem from="1509956487787" duration="11412000" />
+      <workItem from="1509956487787" duration="12967000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31246000" />
+    <option name="totallyTimeSpent" value="32801000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -400,14 +412,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/behavioral-compontents/collapse.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="64" column="40" lean-forward="false" selection-start-line="64" selection-start-column="40" selection-end-line="64" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/behavioral-compontents/dropdown.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -416,10 +420,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/behavioral-compontents/collapse.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="65" column="8" lean-forward="true" selection-start-line="65" selection-start-column="8" selection-end-line="65" selection-end-column="114" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/behavioral-compontents/media-collapse.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="33" column="98" lean-forward="false" selection-start-line="33" selection-start-column="98" selection-end-line="33" selection-end-column="98" />
+        <state relative-caret-position="399">
+          <caret line="287" column="34" lean-forward="false" selection-start-line="287" selection-start-column="34" selection-end-line="287" selection-end-column="34" />
           <folding />
         </state>
       </provider>
